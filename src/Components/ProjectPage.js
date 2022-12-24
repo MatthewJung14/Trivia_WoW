@@ -151,7 +151,7 @@ const ProjectPage = () => {
 
     return (
         <div>
-            <Header/>
+            {/* <Header/> */}
             <section class="projects">
             <h2>Questions Correct: {score}</h2>
             <h2>{diffArray[currentQuestion]}</h2>

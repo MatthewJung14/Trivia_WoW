@@ -8,7 +8,7 @@ import Contacts from './Contacts';
 const HomePage = () => {
     return (
         <div class="App">
-            <Header/>
+            {/* <Header/> */}
             <Introduction/>
             <Experiences/>
             <Contacts/>
