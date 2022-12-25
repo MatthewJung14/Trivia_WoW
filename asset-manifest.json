@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Trivia_WoW/static/css/main.f8d8d75e.css",
-    "main.js": "/Trivia_WoW/static/js/main.c1c5bc57.js",
+    "main.css": "/Trivia_WoW/static/css/main.3bf4902a.css",
+    "main.js": "/Trivia_WoW/static/js/main.2c1f66d1.js",
     "static/media/project1.png": "/Trivia_WoW/static/media/project1.7063238598429f9a1f79.png",
     "static/media/MyName.png": "/Trivia_WoW/static/media/MyName.d7e136de7e83acde68dc.png",
     "static/media/project3.png": "/Trivia_WoW/static/media/project3.a33b0908d4aa582f53d1.png",
     "static/media/project2.png": "/Trivia_WoW/static/media/project2.1243f337ca7e3284934c.png",
     "index.html": "/Trivia_WoW/index.html",
-    "main.f8d8d75e.css.map": "/Trivia_WoW/static/css/main.f8d8d75e.css.map",
-    "main.c1c5bc57.js.map": "/Trivia_WoW/static/js/main.c1c5bc57.js.map"
+    "main.3bf4902a.css.map": "/Trivia_WoW/static/css/main.3bf4902a.css.map",
+    "main.2c1f66d1.js.map": "/Trivia_WoW/static/js/main.2c1f66d1.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8d8d75e.css",
-    "static/js/main.c1c5bc57.js"
+    "static/css/main.3bf4902a.css",
+    "static/js/main.2c1f66d1.js"
   ]
 }
