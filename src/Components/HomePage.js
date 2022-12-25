@@ -7,12 +7,14 @@ import Contacts from './Contacts';
 
 const HomePage = () => {
     return (
-        <div class="App">
+        <>
+        <div class="App" >
             {/* <Header/> */}
             <Introduction/>
             <Experiences/>
             <Contacts/>
         </div>
+        </>
     )
 }
 
